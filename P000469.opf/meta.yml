@@ -3,5 +3,18 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W1CZ164
   title: ཀུན་ཁྱབ་རྡོ་རྗེ་དྲག་པོ་རྩལ་གྱི་སྤྱན་འདྲེན་བསྐང་བ་ཕྲིན་བཅོལ་དང་བཅས་པ
-  volume: ''
+  volume:
+    9df6d9601f2345ed93cf7ec090d7af70:
+      image_group_id: I1CZ677
+      title: Volume 1 of kun khyab rdo rje drag po rtsal gyi spyan 'dren bskang ba
+        phrin bcol dang bcas pa
+      volume_number: 1
+      total_pages: 34
   author: ''
+ebook_metadata:
+  title: ཀུན་ཁྱབ་རྡོ་རྗེ་དྲག་པོ་རྩལ་གྱི་སྤྱན་འདྲེན་བསྐང་བ་ཕྲིན་བཅོལ་དང་བཅས་པ
+  author: ''
+  sku: P000469
+  cover: cover.jpg
+  layers:
+  - pagination
